@@ -56,7 +56,7 @@ function MainComponent() {
               Team
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/KARANCODES23/SoDAHACK-24"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300"
@@ -154,9 +154,11 @@ function MainComponent() {
               equality in data-driven decision making.
             </p>
             <p className="text-gray-300 mb-4">
-              Using advanced machine learning algorithms, we analyze your data
-              for potential biases related to gender, race, age, and other
-              sensitive attributes.
+            In today’s data-driven world, the prevalence of inherent biases within datasets poses significant challenges to fairness, equity, and inclusivity. Our project, the BiasGuard Tool, aims to address these challenges by providing a comprehensive web-based solution for users to analyze their datasets for potential social biases related to race, ethnicity, gender, sexuality, religion, wealth, and income.
+            </p>
+            <p className="text-gray-300 mb-4">
+
+            The BiasGuard Tool stands at the forefront of promoting fairness and equity in data analysis. By providing users with the ability to identify and address biases in their datasets, our project aims to foster a culture of inclusivity and accountability in data usage. Through continuous improvement and community engagement, we aspire to enhance the effectiveness of our tool, ensuring it remains a vital resource for researchers, organizations, and individuals committed to social justice and equitable practices.
             </p>
           </div>
         )}
@@ -167,22 +169,22 @@ function MainComponent() {
               <div className="w-32 h-32 mx-auto rounded-full bg-[#0f172a] mb-4 flex items-center justify-center">
                 <i className="fas fa-user text-4xl text-white"></i>
               </div>
-              <h3 className="text-white text-xl mb-2">John Doe</h3>
+              <h3 className="text-white text-xl mb-2">Devanshu Gupta</h3>
               <p className="text-gray-300">Lead Developer</p>
             </div>
             <div className="bg-[#1e293b] p-6 rounded-lg text-center">
               <div className="w-32 h-32 mx-auto rounded-full bg-[#0f172a] mb-4 flex items-center justify-center">
                 <i className="fas fa-user text-4xl text-white"></i>
               </div>
-              <h3 className="text-white text-xl mb-2">Jane Smith</h3>
-              <p className="text-gray-300">AI Researcher</p>
+              <h3 className="text-white text-xl mb-2">Adithya</h3>
+              <p className="text-gray-300">Back-end Developer</p>
             </div>
             <div className="bg-[#1e293b] p-6 rounded-lg text-center">
               <div className="w-32 h-32 mx-auto rounded-full bg-[#0f172a] mb-4 flex items-center justify-center">
                 <i className="fas fa-user text-4xl text-white"></i>
               </div>
-              <h3 className="text-white text-xl mb-2">Mike Johnson</h3>
-              <p className="text-gray-300">Data Scientist</p>
+              <h3 className="text-white text-xl mb-2">Karan Patel</h3>
+              <p className="text-gray-300">Web developer</p>
             </div>
           </div>
         )}
