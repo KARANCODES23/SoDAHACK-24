@@ -177,7 +177,7 @@ function MainComponent() {
                 <i className="fas fa-user text-4xl text-white"></i>
               </div>
               <h3 className="text-white text-xl mb-2">Adithya</h3>
-              <p className="text-gray-300">Back-end Developer</p>
+              <p className="text-gray-300">L Back-end Developer</p>
             </div>
             <div className="bg-[#1e293b] p-6 rounded-lg text-center">
               <div className="w-32 h-32 mx-auto rounded-full bg-[#0f172a] mb-4 flex items-center justify-center">
